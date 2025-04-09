@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("secure-notes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+529e9f8b2465315fc6517cf882f70316198cdcee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+725b5b763dca31814e7cbf7ccc8ec5925a72ff94")]
 [assembly: System.Reflection.AssemblyProductAttribute("secure-notes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("secure-notes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
